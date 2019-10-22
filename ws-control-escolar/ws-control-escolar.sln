@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ws-control-escolar", "ws-control-escolar.csproj", "{4F14D07C-D454-4B9E-ADB4-FB07EA404B8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F14D07C-D454-4B9E-ADB4-FB07EA404B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F14D07C-D454-4B9E-ADB4-FB07EA404B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F14D07C-D454-4B9E-ADB4-FB07EA404B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F14D07C-D454-4B9E-ADB4-FB07EA404B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2399280-27C2-4632-81B4-B3F720437669}
+	EndGlobalSection
+EndGlobal
